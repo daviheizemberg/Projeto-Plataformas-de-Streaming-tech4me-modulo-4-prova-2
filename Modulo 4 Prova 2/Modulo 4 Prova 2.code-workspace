@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "eureka-server-stream"
+		},
+		{
+			"path": "gateway-stream"
+		},
+		{
+			"path": "tech4stream"
+		},
+		{
+			"name": "tech4midia",
+			"path": "tech4midia"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"git.ignoreLimitWarning": true
+	}
+}
